@@ -1,7 +1,7 @@
-==Partypack
+#Partypack
 
 Attempt to recreate World of Warcraft's dungeon finder system.
 
-===TODO
+##Requirements
 
-[ ] tmp
+- [ ] this is an incomplete item
