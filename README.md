@@ -21,6 +21,12 @@ Attempt to recreate World of Warcraft's dungeon finder system.
 - [ ] Player can see estimated waiting time, based on his selected roles
 - [ ] There is an additional setup for raids: 2 tanks, 6 healers, 17 dps.
 
+//level constraints
+//cross realm
+//the party can queue together when someone leaves the dungeon
+//the party can simply queue together even outside the dungeon + eligibility checks
+//when player gets invitation to dungeon, he can see, who accepts/declines it in realtime (from his potential party)
+
 ###Moving to generic queuing system
 
 - [ ] The number of roles is configurable
