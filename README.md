@@ -6,11 +6,11 @@ Attempt to recreate World of Warcraft's dungeon finder system.
 
 ###Basic
 
-- [ ] There are three roles: tank, healer and damage dealer (dps)
+- [x] There are three roles: tank, healer and damage dealer (dps)
 - [ ] There is only one dungeon, and all players are eligible for it
 - [ ] Player can queue as a specific role
 - [ ] It is known that tank is the least popular role and DPS is the most popular
-- [ ] The only party setup is 1 tank, 1 healer, 3 dps
+- [x] The only party setup is 1 tank, 1 healer, 3 dps
 
 ###Advanced
 
